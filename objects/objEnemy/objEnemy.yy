@@ -1,38 +1,38 @@
 {
-    "id": "64940a05-1274-4d2b-90bb-86e37c28bfdf",
+    "id": "14d150d7-bbf2-4b24-89f8-a76f58383ae7",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objBullet",
+    "name": "objEnemy",
     "eventList": [
         {
-            "id": "a4ad2755-39f2-488a-97bb-2add24317fa2",
+            "id": "0975cfb4-e5b3-43f4-a54e-02403fc82e03",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "64940a05-1274-4d2b-90bb-86e37c28bfdf"
+            "m_owner": "14d150d7-bbf2-4b24-89f8-a76f58383ae7"
         },
         {
-            "id": "269a34a5-03f0-4ab7-accf-57da0aaa2a48",
+            "id": "c060ae54-a6c8-4b52-9f08-0090db3f0956",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 7,
-            "m_owner": "64940a05-1274-4d2b-90bb-86e37c28bfdf"
+            "eventtype": 3,
+            "m_owner": "14d150d7-bbf2-4b24-89f8-a76f58383ae7"
         },
         {
-            "id": "40765d92-adb8-4f6b-996c-dc3d8a8f910b",
+            "id": "52a38efa-9761-46e3-9606-d9035b7e6a12",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "14d150d7-bbf2-4b24-89f8-a76f58383ae7",
+            "collisionObjectId": "eab60671-339a-4a9b-93da-db9471e25b6c",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "64940a05-1274-4d2b-90bb-86e37c28bfdf"
+            "m_owner": "14d150d7-bbf2-4b24-89f8-a76f58383ae7"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "840935cf-2707-414b-8901-52415e383f8d",
+    "spriteId": "21d3e011-c1de-4aa0-a9f4-e24ce20a70cf",
     "visible": true
 }
