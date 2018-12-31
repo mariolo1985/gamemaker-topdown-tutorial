@@ -39,10 +39,26 @@
             }
         },
         {
+            "Key": "14d150d7-bbf2-4b24-89f8-a76f58383ae7",
+            "Value": {
+                "id": "827b1c6c-63ea-4e94-a1f8-2d3e945dce98",
+                "resourcePath": "objects\\objEnemy\\objEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "21793210-11f9-4bad-91f9-c0db8c3d8004",
             "Value": {
                 "id": "9b4cf757-199c-430c-85b1-4510ada9bf34",
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "21d3e011-c1de-4aa0-a9f4-e24ce20a70cf",
+            "Value": {
+                "id": "4c65b873-0f51-4cc0-b314-f460841f9cae",
+                "resourcePath": "sprites\\spr_enemy\\spr_enemy.yy",
                 "resourceType": "GMSprite"
             }
         },
