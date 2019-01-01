@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1e669685-6079-4386-828b-20aff56f19b3",
+            "Value": {
+                "id": "f5fc4537-b520-4092-95ab-e7f2889c71b1",
+                "resourcePath": "objects\\objSpawner\\objSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "21793210-11f9-4bad-91f9-c0db8c3d8004",
             "Value": {
                 "id": "9b4cf757-199c-430c-85b1-4510ada9bf34",
@@ -212,6 +220,14 @@
                 "id": "642b730a-575a-4d3c-bfc3-139a6734cc4b",
                 "resourcePath": "fonts\\fntScore\\fntScore.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "bd470659-e32a-4630-b439-c28c381a2797",
+            "Value": {
+                "id": "713cb54a-a01c-4175-8efb-0bf4cc5bb4d0",
+                "resourcePath": "objects\\objEnemySpawn\\objEnemySpawn.yy",
+                "resourceType": "GMObject"
             }
         },
         {
