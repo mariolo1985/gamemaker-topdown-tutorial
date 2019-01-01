@@ -9,5 +9,7 @@ if (hp <= 0) {
 		score += 5;	
 	}
 	
+	audio_sound_pitch(Explosion, random_range(0.8, 1.2));
+	audio_play_sound(Explosion, 0, false);	
 	instance_destroy();	
 }
