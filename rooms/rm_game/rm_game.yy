@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "rm_game",
     "id": "c973ebcd-0286-42cc-8329-1d438651946b",
     "creationCodeFile": "",
     "inheritCode": false,
